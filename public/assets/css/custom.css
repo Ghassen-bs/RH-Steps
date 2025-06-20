@@ -1,0 +1,4 @@
+/* Custom CSS to override map styling */
+.cs_google_map iframe {
+    filter: none !important;
+}
