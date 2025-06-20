@@ -9,12 +9,8 @@ import portfolio_img_1 from "@/assets/img/portfolio-1.jpg";
 import portfolio_img_2 from "@/assets/img/portfolio-2.jpg";
 import portfolio_img_3 from "@/assets/img/portfolio-3.jpg";
 import portfolio_img_4 from "@/assets/img/portfolio-4.jpg";
-import portfolio_img_6 from "@/assets/img/portfolio-5.jpg";
-import portfolio_img_7 from "@/assets/img/portfolio-6.jpg";
-import portfolio_img_8 from "@/assets/img/portfolio_3.jpg";
-import portfolio_img_9 from "@/assets/img/portfolio_5.jpg";
-import portfolio_img_10 from "@/assets/img/portfolio_6.jpg";
-import portfolio_img_11 from "@/assets/img/portfolio_7.jpg"; 
+import portfolio_img_6 from "@/assets/img/Portfolio-5.jpg";
+import portfolio_img_7 from "@/assets/img/Portfolio-6.jpg";
 
 
 interface DataType {
