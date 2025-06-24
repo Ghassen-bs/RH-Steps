@@ -26,7 +26,6 @@ const footer_data: DataType = {
     { title: `À PROPOS`, link: "/about" },
     { title: `SERVICES`, link: "/service" },
     { title: `PORTFOLIO`, link: "/portfolio" },
-    { title: `BLOG`, link: "/blog" },
     { title: `CONTACTEZ-NOUS`, link: "/contact" },
   ]
 }
