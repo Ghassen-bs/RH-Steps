@@ -15,13 +15,13 @@ interface DataType {
 }[]
 const testimonial_data: DataType[] = [
   {
-    name: `Amal becha`,
+    name: `Becha Amel `,
     location: `Tunis, Tunisia`,
     des: `"Je suis extrêmement satisfaite des services de photographie et vidéographie. L'équipe a su capturer l'essence de notre marque avec professionnalisme et créativité. Les images sont d'une qualité exceptionnelle et ont considérablement amélioré notre présence en ligne."`,
   },
   {
-    name: `Marc Laurent`,
-    location: `Lyon, France`,
+    name: `Hammami Youssef`,
+    location: `Tunis, Nabeul `,
     des: `"La création de notre site web a dépassé toutes nos attentes. L'équipe a parfaitement compris nos besoins et a développé une plateforme moderne, intuitive et parfaitement adaptée à notre activité. Notre trafic en ligne a augmenté de 60% depuis le lancement."`,
   },
   {
